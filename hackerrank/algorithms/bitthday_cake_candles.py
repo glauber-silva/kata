@@ -47,3 +47,5 @@ n = int(input().strip())
 ar = list(map(int, input().strip().split(' ')))
 result = birthday_cake_candles(n, ar)
 print(result)
+
+#TODO: mudar search por quicksort
